@@ -4,12 +4,12 @@ title:  "After Rilke's Panther"
 date:   2023-01-01 16:26:00 +0100
 categories: jekyll update
 ---
-I am hardly satisfied by the following, but some lines have turned out better than expected. The rendering of the first stanza is especially unfortunate.     
+The following is mostly unacceptable, but there are a few small successes which justify sharing it regardless. The rendering of the first stanza is especially unfortunate.     
 
-His sight, by its passage across the bars, is <br>
+His sight, which moves along the bars, has <br>
 become so weary it beholds no more. <br>
-It is as if a thousand bars were his <br>
-and behind a thousand bars no world. <br>
+It is as if these thousand bars were his <br>
+and behind these thousand bars no world. <br>
 
 The soft pass, pliant sturdy pace, <br>
 that turns in the all small circle round, <br>

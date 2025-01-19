@@ -33,25 +33,15 @@ The Dross
 
 ![Photograph 11]({{site.url}}{{ site.baseurl }}/assets/photographs/post-photographs-1-dross/IMG_0666.jpg)
 
-![Photograph 12]({{site.url}}{{ site.baseurl }}/assets/photographs/post-photographs-1-dross/IMG_0675.jpg)
-
 ![Photograph 13]({{site.url}}{{ site.baseurl }}/assets/photographs/post-photographs-1-dross/IMG_0680.jpg)
 
 ![Photograph 14]({{site.url}}{{ site.baseurl }}/assets/photographs/post-photographs-1-dross/IMG_0683.jpg)
 
-![Photograph 15]({{site.url}}{{ site.baseurl }}/assets/photographs/post-photographs-1-dross/IMG_0687.jpg)
-
-![Photograph 16]({{site.url}}{{ site.baseurl }}/assets/photographs/post-photographs-1-dross/IMG_0696.jpg)
-
 ![Photograph 17]({{site.url}}{{ site.baseurl }}/assets/photographs/post-photographs-1-dross/IMG_0701.jpg)
-
-![Photograph 18]({{site.url}}{{ site.baseurl }}/assets/photographs/post-photographs-1-dross/IMG_0709.jpg)
 
 ![Photograph 19]({{site.url}}{{ site.baseurl }}/assets/photographs/post-photographs-1-dross/IMG_0714.jpg)
 
 ![Photograph 20]({{site.url}}{{ site.baseurl }}/assets/photographs/post-photographs-1-dross/IMG_0715.jpg)
-
-![Photograph 21]({{site.url}}{{ site.baseurl }}/assets/photographs/post-photographs-1-dross/IMG_0718.jpg)
 
 ![Photograph 22]({{site.url}}{{ site.baseurl }}/assets/photographs/post-photographs-1-dross/IMG_0721.jpg)
 
